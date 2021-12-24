@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Piply",
     description:
-      "Using React, context api and github api this app enables to find about github users and displays relevant information regrading them.",
+      "Using React, Context api and github api this app enables to find about github users and displays relevant information regrading them.",
     image: "/images/1.JPG",
     tags: ["React", "Github Api", "Context Api"],
     source: "https://github.com/VijayPrakash152/Piply",
