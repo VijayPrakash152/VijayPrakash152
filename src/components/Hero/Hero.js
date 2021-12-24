@@ -20,8 +20,10 @@ const Hero = (props) => (
         Web development is my passion and I like creating content whenever I get
         time. Also I am highly addicted to ☕.
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
-        Learn More
+      <Button>
+        <a href="/VijayPrakash_Resume.pdf" download={true}>
+          Download Resume
+        </a>
       </Button>
     </LeftSection>
   </Section>

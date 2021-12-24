@@ -6,8 +6,9 @@ export const projects = [
     image: "/images/1.JPG",
     tags: ["React", "Github Api", "Context Api"],
     source: "https://github.com/VijayPrakash152/Piply",
-    visit: "https://google.com",
+    visit: "https://piply.vijay-prakash.me/",
     id: 0,
+    live: true,
   },
   {
     title: "Huddle",
@@ -16,8 +17,9 @@ export const projects = [
     image: "/images/2.JPG",
     tags: ["React", "Styled Components"],
     source: "https://github.com/VijayPrakash152/StyledComponentsProject",
-    visit: "https://google.com",
+    visit: "https://vijay-prakash.me/StyledComponentsProject/",
     id: 1,
+    live: true,
   },
   {
     title: "SudoTab",
@@ -26,8 +28,9 @@ export const projects = [
     image: "/images/3.png",
     tags: ["React", "Node", "JSON as database"],
     source: "https://github.com/VijayPrakash152/SudoTab",
-    visit: "https://google.com",
+    visit: "",
     id: 2,
+    live: false,
   },
   {
     title: "Transaction Manager",
@@ -36,8 +39,9 @@ export const projects = [
     image: "/images/4.png",
     tags: ["Node", "NodeMailer", "MongoDB"],
     source: "https://github.com/VijayPrakash152/transaction-manager",
-    visit: "https://google.com",
+    visit: "",
     id: 3,
+    live: false,
   },
 ];
 
