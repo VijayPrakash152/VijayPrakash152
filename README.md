@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am a Mern stack developer, a data engineer and a tea lover.
+- 🤔 &nbsp; I am a Mern stack developer and a coffee addict.
 - 🎓 &nbsp; Btech grad. from NIT Durgapur.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web technologies.
 - ✍️ &nbsp; Starting to create content related to software development.
