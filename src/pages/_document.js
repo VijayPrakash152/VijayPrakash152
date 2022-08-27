@@ -54,16 +54,7 @@ export default class MyDocument extends Document {
           />
           <link rel="manifest" href="/site.webmanifest" />
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
-      <meta property="og:title" content="👨🏼‍💻 Vijay Prakash | Portfolio 🎇"/>
-<meta property="og:description" content="Portfolio Website of Vijay Prakash"/>
-<meta property="og:image"  itemprop="image" content="https://drive.google.com/file/d/1Pr1HcgClv_N3CCUqbhuKjvznrY7VUxNF/view?usp=sharing"/>
-    <meta property="og:image:width" content="300"/>
-    <meta property="og:image:height" content="300"/>
-    <meta property="og:image:alt" content="LOGO"/>
-    <meta property="og:type" content="website"/>
-    
-<meta property="og:url" content="https://vijay-prakash.me/"/>
-
+      
         </Head>
         <body>
           <Main />
