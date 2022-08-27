@@ -13,7 +13,7 @@ const Home = () => {
     <Layout>
       <Head>
         <meta name="msapplication-TileColor" content="#da532c" />
-        <meta name="theme-color" content="#ffffff"/>
+        <meta name="theme-color" content="#262626"/>
                 <meta
           name="description"
           content="Developer Portfolio Of Vijay Prakash"
