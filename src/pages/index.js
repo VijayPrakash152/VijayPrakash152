@@ -16,7 +16,7 @@ const Home = () => {
         <meta name="theme-color" content="#262626"/>
         <meta property="og:title" content="👨🏼‍💻 Vijay Prakash | Portfolio 🎇"/>
 <meta property="og:description" content="Portfolio Website of Vijay Prakash"/>
-<meta property="og:image"  itemprop="image" content={"/images/logo.png"}/>
+<meta property="og:image"  itemprop="image" content="/images/logo.png"/>
     <meta property="og:image:width" content="300"/>
     <meta property="og:image:height" content="300"/>
     <meta property="og:image:alt" content="LOGO"/>
