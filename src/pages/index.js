@@ -13,17 +13,8 @@ const Home = () => {
     <Layout>
       <Head>
         <meta name="msapplication-TileColor" content="#da532c" />
-        <meta name="theme-color" content="#ffffff"></meta>
-        <meta property="og:title" content="👨🏼‍💻 Vijay Prakash | Portfolio 🎇"/>
-<meta property="og:description" content="Portfolio Website of Vijay Prakash"/>
-<meta property="og:image"  itemprop="image" content="https://drive.google.com/file/d/1Pr1HcgClv_N3CCUqbhuKjvznrY7VUxNF/view?usp=sharing"/>
-    <meta property="og:image:width" content="300"/>
-    <meta property="og:image:height" content="300"/>
-    <meta property="og:image:alt" content="LOGO"/>
-    <meta property="og:type" content="website"/>
-    
-<meta property="og:url" content="https://vijay-prakash.me/"/>
-        <meta
+        <meta name="theme-color" content="#ffffff"/>
+                <meta
           name="description"
           content="Developer Portfolio Of Vijay Prakash"
         />
