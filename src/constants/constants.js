@@ -56,5 +56,5 @@ export const TimeLineData = [
     year: 2020,
     text: "Full stack internship at Mathongo for 8 months",
   },
-  { year: 2021, text: "Started working as a data engineer in a MNC." },
+  { year: 2021, text: "Started working as a software engineer at a MNC." },
 ];
