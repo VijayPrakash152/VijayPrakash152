@@ -16,7 +16,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        👋 Hey there! I am Vijay Prakash, currently working as a data engineer.
+        👋 Hey there! I am Vijay Prakash, currently working as a software engineer at a MNC.
         Web development is my passion and I like creating content whenever I get
         time. Also I am highly addicted to ☕.
       </SectionText>
