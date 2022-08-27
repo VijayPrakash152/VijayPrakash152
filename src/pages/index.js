@@ -14,6 +14,10 @@ const Home = () => {
       <Head>
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff"></meta>
+        <meta property="og:title" content="👨🏼‍💻 Vijay Prakash | Portfolio 🎇">
+<meta property="og:description" content="Portfolio Website of Vijay Prakash">
+<meta property="og:image" content="/images/logo.png">
+<meta property="og:url" content="https://vijay-prakash.me/">
         <meta
           name="description"
           content="Developer Portfolio Of Vijay Prakash"
