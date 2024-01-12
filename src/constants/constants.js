@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Piply",
+    title: "Piply test",
     description:
       "Using React, Context api and github api this app enables to find about github users and displays relevant information regrading them.",
     image: "/images/1.JPG",
